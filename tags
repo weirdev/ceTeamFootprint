@@ -1,0 +1,142 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Axes3D	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^from mpl_toolkits.mplot3d import Axes3D$/;"	kind:namespace	line:8
+DBCom	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\dbcom.py	/^class DBCom(object):$/;"	kind:class	line:6
+DS_find	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def DS_find(self):$/;"	kind:member	line:155
+DS_union	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def DS_union(self, other):$/;"	kind:member	line:160
+DisjointSetNode	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^class DisjointSetNode(object):$/;"	kind:class	line:149
+GraphEdge	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^class GraphEdge(object):$/;"	kind:class	line:181
+MICUHOME	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    MICUHOME = 17454$/;"	kind:variable	line:2
+TeamFootprint	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	/^class TeamFootprint(object):$/;"	kind:class	line:7
+__contains__	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def __contains__(self, item):$/;"	kind:member	line:220
+__enter__	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\dbcom.py	/^    def __enter__(self):$/;"	kind:member	line:25
+__eq__	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def __eq__(self, other):$/;"	kind:member	line:214
+__exit__	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\dbcom.py	/^    def __exit__(self, exc_type, exc_val, exc_tb):$/;"	kind:member	line:28
+__ge__	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def __ge__(self, other):$/;"	kind:member	line:211
+__gt__	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def __gt__(self, other):$/;"	kind:member	line:208
+__hash__	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def __hash__(self):$/;"	kind:member	line:178
+__hash__	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def __hash__(self):$/;"	kind:member	line:223
+__init__	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	/^    def __init__(self, db, unitstoroom=None):$/;"	kind:member	line:9
+__init__	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\dbcom.py	/^    def __init__(self, database='uihc', user='uihc', password='comp3pi',$/;"	kind:member	line:8
+__init__	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def __init__(self, singleverttomanyfunc, alledgesfunct):$/;"	kind:member	line:4
+__init__	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def __init__(self, v1, v2, weight):$/;"	kind:member	line:182
+__init__	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def __init__(self, vertex):$/;"	kind:member	line:150
+__le__	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def __le__(self, other):$/;"	kind:member	line:205
+__lt__	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def __lt__(self, other):$/;"	kind:member	line:202
+__ne__	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def __ne__(self, other):$/;"	kind:member	line:217
+__repr__	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def __repr__(self):$/;"	kind:member	line:175
+__repr__	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def __repr__(self):$/;"	kind:member	line:226
+addvert	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def addvert(self, vertid):$/;"	kind:member	line:11
+alledges	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	/^    def alledges(self, verts):$/;"	kind:member	line:533
+argparse	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\footprint_plotter.py	/^import argparse$/;"	kind:namespace	line:4
+basicplot	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\footprint_plotter.py	/^    def basicplot(alpha=1):$/;"	kind:function	line:22
+cetf	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\datagenerator.py	/^import cetf$/;"	kind:namespace	line:1
+cetf.py	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	1;"	kind:file	line:1
+commit	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\dbcom.py	/^    def commit(self, query):$/;"	kind:member	line:21
+compute_distality	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def compute_distality(self):$/;"	kind:member	line:113
+connector	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\dbcom.py	/^import mysql.connector$/;"	kind:namespace	line:3
+copy	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	/^import copy$/;"	kind:namespace	line:4
+create_cluster_forest	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def create_cluster_forest(self):$/;"	kind:member	line:72
+createdictrecords	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	/^    def createdictrecords(self, records, *args, **kwargs):$/;"	kind:member	line:17
+csv	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\datagenerator.py	/^import csv$/;"	kind:namespace	line:4
+csv	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^import csv$/;"	kind:namespace	line:5
+csv	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\stattests.py	/^import csv$/;"	kind:namespace	line:1
+datagenerator.py	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\datagenerator.py	1;"	kind:file	line:1
+datetime	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	/^import datetime$/;"	kind:namespace	line:3
+datetime	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^import datetime$/;"	kind:namespace	line:6
+dbcom	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\datagenerator.py	/^import dbcom$/;"	kind:namespace	line:2
+dbcom	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\unitstoroom.py	/^import dbcom$/;"	kind:namespace	line:2
+dbcom.py	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\dbcom.py	1;"	kind:file	line:1
+distalityoddsratios	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def distalityoddsratios():$/;"	kind:function	line:465
+distalityvlos	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def distalityvlos():$/;"	kind:function	line:290
+distalityvlos	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def distalityvlos():$/;"	kind:function	line:322
+distancevdlostrend	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def distancevdlostrend(spread=100, showerror=False):$/;"	kind:function	line:515
+distancevlos	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def distancevlos():$/;"	kind:function	line:496
+edgeweightdistribution	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def edgeweightdistribution():$/;"	kind:function	line:218
+footprint_plotter.py	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\footprint_plotter.py	1;"	kind:file	line:1
+footprints	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\footprint_plotter.py	/^def footprints(datafile, smoothing, overlay, plotrange):$/;"	kind:function	line:8
+footprints	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def footprints():$/;"	kind:function	line:177
+getall_edgeweights	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def getall_edgeweights(self):$/;"	kind:member	line:69
+getboth	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def getboth(self):$/;"	kind:member	line:199
+getone	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def getone(self):$/;"	kind:member	line:189
+getother	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def getother(self, vertex):$/;"	kind:member	line:193
+getweight	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def getweight(self):$/;"	kind:member	line:66
+hasvertex	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def hasvertex(self, vertex):$/;"	kind:member	line:186
+healedmedteamrecords	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	/^    def healedmedteamrecords(self):$/;"	kind:member	line:549
+healedrecords	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\datagenerator.py	/^def healedrecords(tf):$/;"	kind:function	line:102
+healrecords	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	/^    def healrecords(self, records):$/;"	kind:member	line:28
+healrecordsbyroom	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	/^    def healrecordsbyroom(self, records):$/;"	kind:member	line:137
+inouttake	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def inouttake():$/;"	kind:function	line:39
+itertools	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\stattests.py	/^import itertools$/;"	kind:namespace	line:2
+matplotlib	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\footprint_plotter.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:6
+median	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^from statistics import median$/;"	kind:namespace	line:4
+micu_pathlengths	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def micu_pathlengths(self):$/;"	kind:member	line:131
+micuoutvs6rcinloadratings	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def micuoutvs6rcinloadratings():$/;"	kind:function	line:47
+micuto6rcvsmicutoother_ttest	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\stattests.py	/^def micuto6rcvsmicutoother_ttest(ignoreuids=[12, 4, 10, 5], medteamonly=True):$/;"	kind:function	line:14
+micuvsotherunitsloadratings	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def micuvsotherunitsloadratings(plotaverages=False):$/;"	kind:function	line:82
+micuvsotherunitswith6rcewloadratings	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def micuvsotherunitswith6rcewloadratings(plotaverages=False):$/;"	kind:function	line:128
+mobilityvsxlos	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def mobilityvsxlos(graph=False):$/;"	kind:function	line:392
+mst	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	/^import mst$/;"	kind:namespace	line:5
+mst	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^class mst(object):$/;"	kind:class	line:1
+mst.py	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	1;"	kind:file	line:1
+mstedgeweights	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\datagenerator.py	/^def mstedgeweights(tf):$/;"	kind:function	line:64
+mstweights	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\datagenerator.py	/^def mstweights(tf):$/;"	kind:function	line:59
+mysql	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\dbcom.py	/^import mysql.connector$/;"	kind:namespace	line:3
+np	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^import numpy as np$/;"	kind:namespace	line:3
+np	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\stattests.py	/^import numpy as np$/;"	kind:namespace	line:7
+pandas	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\stattests.py	/^import pandas$/;"	kind:namespace	line:8
+percentpercentpercent	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def percentpercentpercent(removehighest, cutweight): # -> percent data points meeting criteria$/;"	kind:function	line:234
+percentpercentpercent3d	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def percentpercentpercent3d(granularity): # -> percent data points meeting criteria$/;"	kind:function	line:258
+pickle	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\datagenerator.py	/^import pickle$/;"	kind:namespace	line:3
+pickle	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\footprint_plotter.py	/^import pickle$/;"	kind:namespace	line:5
+pickle	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^import pickle$/;"	kind:namespace	line:2
+pickle	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\stattests.py	/^import pickle$/;"	kind:namespace	line:3
+pickle	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\unitstoroom.py	/^import pickle$/;"	kind:namespace	line:3
+plots.py	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	1;"	kind:file	line:1
+plt	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\footprint_plotter.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:6
+plt	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^from matplotlib import pyplot as plt$/;"	kind:namespace	line:1
+query	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\dbcom.py	/^    def query(self, query):$/;"	kind:member	line:17
+relativedistalityvdlostrend	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def relativedistalityvdlostrend(spread=100, showerror=False):$/;"	kind:function	line:358
+relativedistalityvdlostrend_sedentrycutoff	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def relativedistalityvdlostrend_sedentrycutoff(sedcutoff, spread=100, showerror=False):$/;"	kind:function	line:547
+relativedistalityvlos	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def relativedistalityvlos():$/;"	kind:function	line:306
+relativedistalityvlos	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def relativedistalityvlos():$/;"	kind:function	line:338
+relativevisitdistality	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\datagenerator.py	/^def relativevisitdistality(tf):$/;"	kind:function	line:85
+removevert	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def removevert(self, vertid):$/;"	kind:member	line:35
+room	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\unitstoroom.py	/^            room = db.query(baseroomquerysrc.format(unit))$/;"	kind:variable	line:16
+room	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\unitstoroom.py	/^        room = db.query(baseroomquerydst.format(unit))$/;"	kind:variable	line:12
+sedentism	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	/^    def sedentism(self):$/;"	kind:member	line:633
+sedentism	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\datagenerator.py	/^def sedentism(tf):$/;"	kind:function	line:110
+singleverttomany	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	/^    def singleverttomany(self, single, many):$/;"	kind:member	line:521
+singleverttosingle	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	/^    def singleverttosingle(self, vert1, vert2):$/;"	kind:member	line:527
+smoothedplot	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\footprint_plotter.py	/^    def smoothedplot():$/;"	kind:function	line:31
+spantreefromgraph	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\mst.py	/^    def spantreefromgraph(self, graphedges):$/;"	kind:member	line:51
+statistics	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\stattests.py	/^import statistics$/;"	kind:namespace	line:4
+stats	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^from scipy import stats$/;"	kind:namespace	line:7
+stats	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\stattests.py	/^from scipy import stats$/;"	kind:namespace	line:9
+stattests.py	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\stattests.py	1;"	kind:file	line:1
+staylengths	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def staylengths():$/;"	kind:function	line:32
+sys	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\footprint_plotter.py	/^import sys$/;"	kind:namespace	line:3
+sys	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\stattests.py	/^import sys$/;"	kind:namespace	line:5
+team_mstedgeweights	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	/^    def team_mstedgeweights(self):$/;"	kind:member	line:405
+team_mstweights	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	/^    def team_mstweights(self):$/;"	kind:member	line:326
+team_patientdistality	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	/^    def team_patientdistality(self):$/;"	kind:member	line:453
+teampaitentdistance	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	/^    def teampaitentdistance(self):$/;"	kind:member	line:566
+teampatientcounts	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	/^    def teampatientcounts(self):$/;"	kind:member	line:273
+teampatientcounts	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\datagenerator.py	/^def teampatientcounts(tf):$/;"	kind:function	line:52
+teamprintvteamprint	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def teamprintvteamprint():$/;"	kind:function	line:195
+tf	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\datagenerator.py	/^        tf = cetf.TeamFootprint(db)$/;"	kind:variable	line:132
+tf_teampatientcounts	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\graphs\plots.py	/^def tf_teampatientcounts():$/;"	kind:function	line:11
+topmicudestinationsand6rcloadby6rcload	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\stattests.py	/^def topmicudestinationsand6rcloadby6rcload(ignoreuids=[12, 4, 10, 5, 34,36,39,14,15,169,175,95,7,38,80,74,191,192,11], cutoffs=[0,85,90,95,97,99],$/;"	kind:function	line:57
+tsvparse	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\stattests.py	/^import tsvparse$/;"	kind:namespace	line:11
+unitquery	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\unitstoroom.py	/^    unitquery = "SELECT uid FROM units;"$/;"	kind:variable	line:7
+units	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\unitstoroom.py	/^    units = [u[0] for u in db.query(unitquery)]$/;"	kind:variable	line:8
+unitstoroom.py	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\unitstoroom.py	1;"	kind:file	line:1
+unittoroom	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\unitstoroom.py	/^unittoroom = {}$/;"	kind:variable	line:5
+visitaddate	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\cetf.py	/^    def visitaddate(self):$/;"	kind:member	line:539
+visitdistality	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\datagenerator.py	/^def visitdistality(tf):$/;"	kind:function	line:69
+visitdistance	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\datagenerator.py	/^def visitdistance(tf):$/;"	kind:function	line:77
+visitstartend	C:\Users\Wesley\dev\CompEpi\ceTeamFootprint\datagenerator.py	/^def visitstartend(tf):$/;"	kind:function	line:93

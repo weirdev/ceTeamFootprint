@@ -1,0 +1,3 @@
+min/max transfer datetime with admission and discharge datetimes for each unique visit:
+
+select min(t.tdate), max(t.tdate), v.adate, v.ddate, v.vid from transfers t, visits v where t.vid = v.vid group by v.vid limit 10;

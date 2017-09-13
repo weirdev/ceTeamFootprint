@@ -1,0 +1,90 @@
+load by team
+	in 6rc
+	out of 6rc
+
+minimum spanning tree for all patients
+
+plot number of patients in all teams along with mst weights
+
+1. It would be nice to see the graphs, again, with the following changes:
+   a. a smaller window of time, say a month or two or a year
+   b. overlay the smoothed MST weight as well as the daily fluctuations
+   c. also nice just to see smoothed MST weights over longer periods
+
+2. investigate the distribution of edge weights within an MST
+   a. might be nice to plot, by team, the weight of the longest edge
+      in MST (gives a qualitative view of any differences in the
+      teams?)
+   b. look at LOS for patients who are often "far away" in terms of
+      distance along MST to team home vs. patients who are only rarely
+      "far away" (need to define criteria; maybe top 25th percentile
+      of some measure?)
+
+3. (more sophisticated clustering) use MST clustering (repeatedly drop
+largest remaining edge in MST until you reach an end condition, like
+all connected components have fewer than 1/N patients from the MST) to
+subdivide patients into local clusters.
+
+
+--
+
+cluster (cut 1 or 10%)
+weight each patient by load their cluster accounts for
+      distribution by patient over time
+      locate "distal" patients
+      correlate length of stay with distality of patients
+      remove diabetic patients?
+
+caffe berkley
+
+distality vs. delta-xlos = los - (xlos (expected length of stay) in visits)
+      ** color this plot by actual length of stay
+      ** investigate the reason for the shape of the graph
+
+
+---
+
+team mobility vs delta-los
+      smoothed team mst weight -> take upper and lower 5%
+      
+1. Consider the plots of delta(los-xlos) vs. distality. Sort the data
+points by distality and using some small number of datapoints (a
+vertical strip of 100 at a time? depends how many are in each team's
+plot) compute an average delta and plot this trend against
+distality. might be nice to also have standard deviations if possible
+-- series of box/whiskers one per slice arrayed left to right.
+
+2. Consider the plot of mobility by team over 10 years. Take a single
+year (your choice) and smooth each team's plot over X days. For each
+team, find periods of at least Y days where the moving average
+mobility is in the top 5% for that team, and periods of at least Y
+days where the moving average mobility is in the bottom 5% for that
+team. Assign patient delta(los-xlos) to these regions in some
+reasonable way (for patients admitted/discharged in the region, it
+isn't a problem -- maybe start with just those -- or, alternatively,
+include some weighted fraction of the delta for patients that persist
+beyond the region in your calculation of the average delta(los-xlos)
+for the region). compare these averages for top 5% and bottom 5%
+within each team using a t-test or even a signed ranks test; are they
+significanly different?  if so, then "busier" teams have greater
+deleterious impact on their patients.
+
+firstdate times
+A
+2004-11-14 11:39:59
+B
+2004-12-19 09:32:59
+C
+2004-11-15 12:38:59
+D
+2004-12-30 12:13:59
+
+++++++++
+
+send segre cleaned transfers
+writeup summary of everything
+
+****
+
+trow away patients to make pool more and more sedentry check shape of dlos trend graph
+everything with distance
